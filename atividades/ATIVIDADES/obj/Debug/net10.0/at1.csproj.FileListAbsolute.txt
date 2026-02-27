@@ -1,0 +1,14 @@
+C:\Users\Livs\source\repos\Livia000\atividades\at1\bin\Debug\net10.0\at1.exe
+C:\Users\Livs\source\repos\Livia000\atividades\at1\bin\Debug\net10.0\at1.deps.json
+C:\Users\Livs\source\repos\Livia000\atividades\at1\bin\Debug\net10.0\at1.runtimeconfig.json
+C:\Users\Livs\source\repos\Livia000\atividades\at1\bin\Debug\net10.0\at1.dll
+C:\Users\Livs\source\repos\Livia000\atividades\at1\bin\Debug\net10.0\at1.pdb
+C:\Users\Livs\source\repos\Livia000\atividades\at1\obj\Debug\net10.0\at1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Livs\source\repos\Livia000\atividades\at1\obj\Debug\net10.0\at1.AssemblyInfoInputs.cache
+C:\Users\Livs\source\repos\Livia000\atividades\at1\obj\Debug\net10.0\at1.AssemblyInfo.cs
+C:\Users\Livs\source\repos\Livia000\atividades\at1\obj\Debug\net10.0\at1.csproj.CoreCompileInputs.cache
+C:\Users\Livs\source\repos\Livia000\atividades\at1\obj\Debug\net10.0\at1.dll
+C:\Users\Livs\source\repos\Livia000\atividades\at1\obj\Debug\net10.0\refint\at1.dll
+C:\Users\Livs\source\repos\Livia000\atividades\at1\obj\Debug\net10.0\at1.pdb
+C:\Users\Livs\source\repos\Livia000\atividades\at1\obj\Debug\net10.0\at1.genruntimeconfig.cache
+C:\Users\Livs\source\repos\Livia000\atividades\at1\obj\Debug\net10.0\ref\at1.dll
